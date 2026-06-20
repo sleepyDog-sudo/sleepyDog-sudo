@@ -4,9 +4,9 @@
 
 <div align="center">
 
-# sleepyDog-sudo
+# Digital art × Linux × Minecraft modding
 
-### ratshawty / digital art / Arch Linux / Minecraft modding
+### ratshawty / sleepyDog-sudo
 ### drawing, modding, breaking configs, then fixing them at 4AM
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=800&center=true&vCenter=true&width=760&lines=Digital+artist+%2F+character+design;Arch+Linux+daily+driver;Minecraft+Fabric+%2F+KubeJS+modding;Interactive+website+%2F+frontend+experiments;CS2+%2F+gaming+settings+brainrot" />
