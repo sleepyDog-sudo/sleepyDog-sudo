@@ -11,11 +11,11 @@
   <a href="https://savior666.xyz">
     <img src="https://img.shields.io/badge/VISIT%20MY%20SITE-savior666.xyz-ff5f5f?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/sleepyDog-sudo/my-awesome-profile">
-    <img src="https://img.shields.io/badge/WEBSITE%20REPO-my--awesome--profile-2ea043?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://github.com/sleepyDog-sudo/qisi-smokes">
     <img src="https://img.shields.io/badge/MINECRAFT%20MOD-qisi--smokes-f9d65c?style=for-the-badge&logo=curseforge&logoColor=black" />
+  </a>
+  <a href="https://github.com/sleepyDog-sudo/Fox-Physics-Sandbox">
+    <img src="https://img.shields.io/badge/PHYSICS%20SANDBOX-Fox--Physics--Sandbox-58a6ff?style=for-the-badge&logo=three.js&logoColor=white" />
   </a>
 </p>
 
@@ -41,8 +41,9 @@ gaming      -> CS2 settings, FPS tuning, competitive-game config brainrot
 
 | Project | What it is | Link |
 |---|---|---|
-| Personal website | Interactive profile site for `savior666.xyz` | [open site](https://savior666.xyz) / [repo](https://github.com/sleepyDog-sudo/my-awesome-profile) |
+| Personal website | Interactive profile site for `savior666.xyz` | [open site](https://savior666.xyz) |
 | qisi-smokes | Fabric 1.20.1 cigarette / tobacco mod for cozy survival servers | [repo](https://github.com/sleepyDog-sudo/qisi-smokes) |
+| Fox Physics Sandbox | Interactive Three.js / cannon-es physics sandbox | [repo](https://github.com/sleepyDog-sudo/Fox-Physics-Sandbox) |
 | ratshawty.cc | Older / alternate personal-site experiment | [repo](https://github.com/sleepyDog-sudo/ratshawty.cc) |
 | Arch gaming configs | Linux gaming experiments, launch options, gamescope tuning | profile notes |
 | Art workflow | Character design, lineart, Procreate palettes, visual identity | private / ongoing |
@@ -78,10 +79,12 @@ Web side    Vite, vanilla frontend, GitHub + Vercel
 ## Repo map
 
 ```txt
-sleepyDog-sudo/my-awesome-profile   -> source code for savior666.xyz
-sleepyDog-sudo/qisi-smokes          -> Minecraft smoke / cigarette mod
-sleepyDog-sudo/ratshawty.cc         -> older personal-site direction
-sleepyDog-sudo/sleepyDog-sudo       -> this profile README
+savior666.xyz                         -> live personal website
+sleepyDog-sudo/my-awesome-profile     -> private source code for savior666.xyz
+sleepyDog-sudo/qisi-smokes            -> Minecraft smoke / cigarette mod
+sleepyDog-sudo/Fox-Physics-Sandbox    -> Three.js / cannon-es physics sandbox
+sleepyDog-sudo/ratshawty.cc           -> older personal-site direction
+sleepyDog-sudo/sleepyDog-sudo         -> this profile README
 ```
 
 ---
