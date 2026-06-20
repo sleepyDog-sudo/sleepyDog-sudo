@@ -63,11 +63,8 @@ gaming      -> CS2 settings, FPS tuning, competitive-game config brainrot
 
 ## Featured work
 
-<table>
-<tr>
-<td width="50%">
-
 ### savior666.xyz
+
 Interactive personal site with a fake desktop / terminal mood, project cards, visual panels, and personal identity shell.
 
 ```txt
@@ -79,10 +76,10 @@ status   live
 
 [open site](https://savior666.xyz)
 
-</td>
-<td width="50%">
+---
 
 ### qisi-smokes
+
 A Fabric 1.20.1 cigarette / tobacco mod made for a cozy survival Minecraft server setup.
 
 ```txt
@@ -93,12 +90,10 @@ status   usable / tuning
 
 [open repo](https://github.com/sleepyDog-sudo/qisi-smokes)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
 ### Fox Physics Sandbox
+
 Interactive Three.js and cannon-es physics sandbox for dragging, collision, motion, and small browser-based experiments.
 
 ```txt
@@ -109,10 +104,10 @@ status   public
 
 [open repo](https://github.com/sleepyDog-sudo/Fox-Physics-Sandbox)
 
-</td>
-<td width="50%">
+---
 
 ### ratshawty.cc
+
 A controlled project archive with explicit boundaries documented in its own repository README.
 
 ```txt
@@ -123,9 +118,19 @@ notes    restricted scope documented in repo
 
 [open repo](https://github.com/sleepyDog-sudo/ratshawty.cc)
 
-</td>
-</tr>
-</table>
+---
+
+### genshin-mod
+
+Local visual modding archive and experiment notes.
+
+```txt
+mode     archive
+status   public
+notes    local experiment notes
+```
+
+[open repo](https://github.com/sleepyDog-sudo/genshin-mod)
 
 ---
 
