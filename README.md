@@ -7,6 +7,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=800&center=true&vCenter=true&width=520&lines=Arch+Linux+daily+driver;Minecraft+modding+%2F+server+tinkering;Digital+artist+%2F+character+design;CS2+%2F+VAL+%2F+gaming+brainrot" />
 
+<p>
+  <a href="https://savior666.xyz">
+    <img src="https://img.shields.io/badge/visit%20my%20site-savior666.xyz-ff5f5f?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
 </div>
 
 ---
