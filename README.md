@@ -4,16 +4,19 @@
 
 <div align="center">
 
-# Digital art × Linux × Minecraft modding
+# Digital art × Linux × Minecraft modding × color tools
 
 ### ratshawty / sleepyDog-sudo
 ### drawing, modding, breaking configs, then fixing them at 4AM
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=800&center=true&vCenter=true&width=760&lines=Digital+artist+%2F+character+design;Arch+Linux+daily+driver;Minecraft+Fabric+%2F+KubeJS+modding;Interactive+website+%2F+frontend+experiments;CS2+%2F+gaming+settings+brainrot" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=800&center=true&vCenter=true&width=760&lines=Digital+artist+%2F+character+design;Procreate+color+workflow+tools;Arch+Linux+daily+driver;Minecraft+Fabric+%2F+KubeJS+modding;Interactive+website+%2F+frontend+experiments;CS2+%2F+gaming+settings+brainrot" />
 
 <p>
   <a href="https://savior666.xyz">
     <img src="https://img.shields.io/badge/VISIT%20MY%20SITE-savior666.xyz-ff5f5f?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://sleepydog-sudo.github.io/qisi-color-kit/">
+    <img src="https://img.shields.io/badge/LIVE%20TOOL-qisi--color--kit-bc8cff?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
   <a href="https://github.com/sleepyDog-sudo/qisi-smokes">
     <img src="https://img.shields.io/badge/MINECRAFT%20MOD-qisi--smokes-f9d65c?style=for-the-badge&logo=curseforge&logoColor=black" />
@@ -28,7 +31,7 @@
   <img src="https://img.shields.io/badge/Desktop-Hyprland-58E1FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Art-Procreate-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Deploy-Vercel-black?style=flat-square&logo=vercel" />
+  <img src="https://img.shields.io/badge/Deploy-Vercel%20%2F%20GitHub%20Pages-black?style=flat-square&logo=githubpages" />
 </p>
 
 </div>
@@ -44,6 +47,7 @@ artist      -> digital illustration, character design, Procreate workflow
 linux       -> Arch Linux, Hyprland, PipeWire, Steam, gamescope
 minecraft   -> Fabric 1.20.1, KubeJS, server/client mod packaging
 frontend    -> personal website, interactive profile UI, Vite experiments
+tools       -> color palette extraction, drawing workflow helpers, GitHub Pages apps
 gaming      -> CS2 settings, FPS tuning, competitive-game config brainrot
 ```
 
@@ -54,6 +58,7 @@ gaming      -> CS2 settings, FPS tuning, competitive-game config brainrot
 | Portal | Type | Link |
 |---|---:|---|
 | `savior666.xyz` | live personal website | [open site](https://savior666.xyz) |
+| `qisi-color-kit` | Procreate-friendly color tool | [open demo](https://sleepydog-sudo.github.io/qisi-color-kit/) |
 | `qisi-smokes` | Minecraft Fabric mod | [repo](https://github.com/sleepyDog-sudo/qisi-smokes) |
 | `Fox Physics Sandbox` | 3D physics experiment | [repo](https://github.com/sleepyDog-sudo/Fox-Physics-Sandbox) |
 | `ratshawty.cc` | controlled-use project archive | [repo](https://github.com/sleepyDog-sudo/ratshawty.cc) |
@@ -61,7 +66,38 @@ gaming      -> CS2 settings, FPS tuning, competitive-game config brainrot
 
 ---
 
+## Latest public tool
+
+### qisi-color-kit
+
+A Procreate-friendly image color sampler and palette generator for digital illustration workflow.
+
+```txt
+stack    Vite / JavaScript / HTML / CSS
+mode     browser tool
+hosting  GitHub Pages
+status   v1.0.0 public release
+```
+
+[open demo](https://sleepydog-sudo.github.io/qisi-color-kit/) · [open repo](https://github.com/sleepyDog-sudo/qisi-color-kit)
+
+---
+
 ## Featured work
+
+### qisi-color-kit
+
+Image-based color extraction tool made for illustration workflow: upload image, sample exact pixels, label skin / hair / clothing / lineart, auto-name swatches, then export a clean PNG palette for Procreate.
+
+```txt
+stack    Vite / vanilla JavaScript
+features Label Assist / auto naming / PNG export / JSON project save
+status   public / released
+```
+
+[open demo](https://sleepydog-sudo.github.io/qisi-color-kit/) · [open repo](https://github.com/sleepyDog-sudo/qisi-color-kit)
+
+---
 
 ### savior666.xyz
 
@@ -137,11 +173,12 @@ notes    local experiment notes
 ## Current build board
 
 ```txt
-[active]   savior666.xyz          -> personal website / portfolio shell
-[active]   qisi-smokes            -> Minecraft cigarette item + animation mod
-[tuning]   Arch Linux gaming      -> CS2 / Steam / GPU / audio setup
-[ongoing]  art identity           -> ratshawty / sewer-animal visual system
-[notes]    Procreate workflow     -> lineart, palettes, character design process
+[released] qisi-color-kit        -> Procreate-friendly color sampler / palette generator
+[active]   savior666.xyz         -> personal website / portfolio shell
+[active]   qisi-smokes           -> Minecraft cigarette item + animation mod
+[tuning]   Arch Linux gaming     -> CS2 / Steam / GPU / audio setup
+[ongoing]  art identity          -> ratshawty / sewer-animal visual system
+[notes]    Procreate workflow    -> lineart, palettes, character design process
 ```
 
 ---
@@ -157,7 +194,7 @@ OS          Arch Linux
 Desktop     Hyprland
 Editor      VS Code / terminal / Procreate
 Game side   Minecraft Fabric, KubeJS, Steam, gamescope
-Web side    Vite, vanilla frontend, GitHub + Vercel
+Web side    Vite, vanilla frontend, GitHub Pages, GitHub + Vercel
 Art side    character design, body shape studies, palette / lineart workflow
 ```
 
@@ -168,6 +205,7 @@ Art side    character design, body shape studies, palette / lineart workflow
 ```txt
 savior666.xyz                         -> live personal website
 sleepyDog-sudo/my-awesome-profile     -> private source code for savior666.xyz
+sleepyDog-sudo/qisi-color-kit         -> Procreate color sampler / palette generator
 sleepyDog-sudo/qisi-smokes            -> Minecraft smoke / cigarette mod
 sleepyDog-sudo/Fox-Physics-Sandbox    -> Three.js / cannon-es physics sandbox
 sleepyDog-sudo/ratshawty.cc           -> controlled-use project archive
@@ -181,7 +219,7 @@ sleepyDog-sudo/sleepyDog-sudo         -> this profile README
 
 ```txt
 website first        -> send people to savior666.xyz
-public repos         -> show finished / readable work
+public tools         -> show finished browser tools and readable repos
 private source       -> keep personal website source private
 mods / experiments   -> document scope clearly, avoid vague mystery folders
 profile goal         -> art identity + Linux tinkering + game/mod projects
